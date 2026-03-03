@@ -23,10 +23,10 @@ from telegram.ext import (
 from telegram.constants import ParseMode
 
 # ======================== НАСТРОЙКИ ========================
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"  # <- Вставь токен сюда
+BOT_TOKEN = ""  # <- Вставь токен сюда
 
 # ID главных админов бота (не путать с админами группы)
-SUPER_ADMINS = [123456789]  # <- Вставь свой Telegram ID
+SUPER_ADMINS = [1628465474, 1403294560]  # <- Вставь свой Telegram ID
 
 # Файл для хранения данных
 DATA_FILE = "bot_data.json"
