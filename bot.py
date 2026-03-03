@@ -23,7 +23,7 @@ from telegram.ext import (
 from telegram.constants import ParseMode
 
 # ======================== НАСТРОЙКИ ========================
-BOT_TOKEN = "8723411738:AAHtCYods_nSSQs2POBoEiODOHSR5515xR8"  # <- Вставь токен сюда
+BOT_TOKEN = ""  # <- Вставь токен сюда
 
 # ID главных админов бота (не путать с админами группы)
 SUPER_ADMINS = [1628465474, 1403294560]  # <- Вставь свой Telegram ID
